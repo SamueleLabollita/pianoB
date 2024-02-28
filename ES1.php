@@ -44,6 +44,6 @@ if ($conn->connect_error) {
             $conn->close();
         ?>
     </body>
-</html
+</html>
 
 
